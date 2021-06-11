@@ -1,0 +1,83 @@
+<configs>
+	<append xpath="/recipes">
+    <recipe name="vehicleTechnoBikeplaceable" count="1" craft_time="150" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="vehicleWheels" count="2"/>
+      <ingredient name="vehicleMotorcycleChassis" count="1"/>
+      <ingredient name="vehicleMotorcycleHandlebars" count="1"/>
+      <ingredient name="smallEngine" count="1"/>
+      <ingredient name="carBattery" count="1"/>
+    </recipe>
+
+    <recipe name="vehicleTechnoBikeBlackplaceable" count="1" craft_time="150" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="vehicleWheels" count="2"/>
+      <ingredient name="vehicleMotorcycleChassis" count="1"/>
+      <ingredient name="vehicleMotorcycleHandlebars" count="1"/>
+      <ingredient name="smallEngine" count="1"/>
+      <ingredient name="carBattery" count="1"/>
+    </recipe>
+
+    <recipe name="vehicleTechnoBikeBlueplaceable" count="1" craft_time="150" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="vehicleWheels" count="2"/>
+      <ingredient name="vehicleMotorcycleChassis" count="1"/>
+      <ingredient name="vehicleMotorcycleHandlebars" count="1"/>
+      <ingredient name="smallEngine" count="1"/>
+      <ingredient name="carBattery" count="1"/>
+    </recipe>
+
+    <recipe name="vehicleTechnoBikeGoldplaceable" count="1" craft_time="150" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="vehicleWheels" count="2"/>
+      <ingredient name="vehicleMotorcycleChassis" count="1"/>
+      <ingredient name="vehicleMotorcycleHandlebars" count="1"/>
+      <ingredient name="smallEngine" count="1"/>
+      <ingredient name="carBattery" count="1"/>
+    </recipe>
+
+    <recipe name="vehicleTechnoBikeGreenplaceable" count="1" craft_time="150" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="vehicleWheels" count="2"/>
+      <ingredient name="vehicleMotorcycleChassis" count="1"/>
+      <ingredient name="vehicleMotorcycleHandlebars" count="1"/>
+      <ingredient name="smallEngine" count="1"/>
+      <ingredient name="carBattery" count="1"/>
+    </recipe>
+
+    <recipe name="vehicleTechnoBikeOrangeplaceable" count="1" craft_time="150" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="vehicleWheels" count="2"/>
+      <ingredient name="vehicleMotorcycleChassis" count="1"/>
+      <ingredient name="vehicleMotorcycleHandlebars" count="1"/>
+      <ingredient name="smallEngine" count="1"/>
+      <ingredient name="carBattery" count="1"/>
+    </recipe>
+
+    <recipe name="vehicleTechnoBikePinkplaceable" count="1" craft_time="150" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="vehicleWheels" count="2"/>
+      <ingredient name="vehicleMotorcycleChassis" count="1"/>
+      <ingredient name="vehicleMotorcycleHandlebars" count="1"/>
+      <ingredient name="smallEngine" count="1"/>
+      <ingredient name="carBattery" count="1"/>
+    </recipe>
+
+    <recipe name="vehicleTechnoBikePurpleplaceable" count="1" craft_time="150" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="vehicleWheels" count="2"/>
+      <ingredient name="vehicleMotorcycleChassis" count="1"/>
+      <ingredient name="vehicleMotorcycleHandlebars" count="1"/>
+      <ingredient name="smallEngine" count="1"/>
+      <ingredient name="carBattery" count="1"/>
+    </recipe>
+
+    <recipe name="vehicleTechnoBikeTealplaceable" count="1" craft_time="150" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="vehicleWheels" count="2"/>
+      <ingredient name="vehicleMotorcycleChassis" count="1"/>
+      <ingredient name="vehicleMotorcycleHandlebars" count="1"/>
+      <ingredient name="smallEngine" count="1"/>
+      <ingredient name="carBattery" count="1"/>
+    </recipe>
+
+    <recipe name="vehicleTechnoBikeWhiteplaceable" count="1" craft_time="150" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="vehicleWheels" count="2"/>
+      <ingredient name="vehicleMotorcycleChassis" count="1"/>
+      <ingredient name="vehicleMotorcycleHandlebars" count="1"/>
+      <ingredient name="smallEngine" count="1"/>
+      <ingredient name="carBattery" count="1"/>
+    </recipe>
+	</append>
+ </configs>

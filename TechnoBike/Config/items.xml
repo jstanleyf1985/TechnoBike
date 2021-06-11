@@ -1,0 +1,190 @@
+<configs>
+	<append xpath="/items">
+    <item name="vehicleTechnoBikeplaceable">
+			<property name="Extends" value="vehicleMinibikePlaceable"/>
+			<property name="CustomIcon" value="TechnoBike"/>
+			<property name="DescriptionKey" value="vehicleTechnoBikeplaceableDesc"/>
+			<property name="Meshfile" value="#@modfolder:Resources/TechnoBike.unity3d?TechnoBikePrefab.prefab"/>
+			<property name="EconomicValue" value="30000"/>
+			<property class="Action1">
+				<property name="Vehicle" value="vehicleTechnoBike"/>
+				<property name="VehicleSize" value="1.3, 1.9, 3"/>
+			</property>
+		  <effect_group name="Base Effects">
+		    <passive_effect name="DegradationMax" operation="base_set" value="6000"/>
+        <passive_effect name="ModSlots" operation="base_set" value="4"/>
+		    <passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+	    </effect_group>
+		</item>
+
+    <item name="vehicleTechnoBikeBlackplaceable">
+			<property name="Extends" value="vehicleMinibikePlaceable"/>
+			<property name="CustomIcon" value="TechnoBike"/>
+			<property name="DescriptionKey" value="vehicleTechnoBikeplaceableDesc"/>
+			<property name="Meshfile" value="#@modfolder:Resources/TechnoBikeBlack.unity3d?TechnoBikeBlackPrefab.prefab"/>
+			<property name="EconomicValue" value="30000"/>
+			<property class="Action1">
+				<property name="Vehicle" value="vehicleTechnoBikeBlack"/>
+				<property name="VehicleSize" value="1.3, 1.9, 3"/>
+			</property>
+			<effect_group name="Base Effects">
+				<passive_effect name="DegradationMax" operation="base_set" value="6000"/>
+        <passive_effect name="ModSlots" operation="base_set" value="4"/>
+		    <passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+			</effect_group>
+		</item>	
+
+    <item name="vehicleTechnoBikeBlueplaceable">
+			<property name="Extends" value="vehicleMinibikePlaceable"/>
+			<property name="CustomIcon" value="TechnoBike"/>
+			<property name="DescriptionKey" value="vehicleTechnoBikeplaceableDesc"/>
+			<property name="Meshfile" value="#@modfolder:Resources/TechnoBikeBlue.unity3d?TechnoBikeBluePrefab.prefab"/>
+			<property name="EconomicValue" value="30000"/>
+			<property class="Action1">
+				<property name="Vehicle" value="vehicleTechnoBikeBlue"/>
+				<property name="VehicleSize" value="1.3, 1.9, 3"/>
+			</property>
+			<effect_group name="Base Effects">
+				<passive_effect name="DegradationMax" operation="base_set" value="6000"/>
+        <passive_effect name="ModSlots" operation="base_set" value="4"/>
+		    <passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+			</effect_group>
+		</item>
+
+    <item name="vehicleTechnoBikeGoldplaceable">
+			<property name="Extends" value="vehicleMinibikePlaceable"/>
+			<property name="CustomIcon" value="TechnoBike"/>
+			<property name="DescriptionKey" value="vehicleTechnoBikeplaceableDesc"/>
+			<property name="Meshfile" value="#@modfolder:Resources/TechnoBikeGold.unity3d?TechnoBikeGoldPrefab.prefab"/>
+			<property name="EconomicValue" value="30000"/>
+			<property class="Action1">
+				<property name="Vehicle" value="vehicleTechnoBikeGold"/>
+				<property name="VehicleSize" value="1.3, 1.9, 3"/>
+			</property>
+			<effect_group name="Base Effects">
+				<passive_effect name="DegradationMax" operation="base_set" value="6000"/>
+        <passive_effect name="ModSlots" operation="base_set" value="4"/>
+		    <passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+			</effect_group>
+		</item>
+
+    <item name="vehicleTechnoBikeGreenplaceable">
+			<property name="Extends" value="vehicleMinibikePlaceable"/>
+			<property name="CustomIcon" value="TechnoBike"/>
+			<property name="DescriptionKey" value="vehicleTechnoBikeplaceableDesc"/>
+			<property name="Meshfile" value="#@modfolder:Resources/TechnoBikeGreen.unity3d?TechnoBikeGreenPrefab.prefab"/>
+			<property name="EconomicValue" value="30000"/>
+			<property class="Action1">
+				<property name="Vehicle" value="vehicleTechnoBikeGreen"/>
+				<property name="VehicleSize" value="1.3, 1.9, 3"/>
+			</property>
+			<effect_group name="Base Effects">
+				<passive_effect name="DegradationMax" operation="base_set" value="6000"/>
+        <passive_effect name="ModSlots" operation="base_set" value="4"/>
+		    <passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+			</effect_group>
+		</item>
+
+    <item name="vehicleTechnoBikeOrangeplaceable">
+			<property name="Extends" value="vehicleMinibikePlaceable"/>
+			<property name="CustomIcon" value="TechnoBike"/>
+			<property name="DescriptionKey" value="vehicleTechnoBikeplaceableDesc"/>
+			<property name="Meshfile" value="#@modfolder:Resources/TechnoBikeOrange.unity3d?TechnoBikeOrangePrefab.prefab"/>
+			<property name="EconomicValue" value="30000"/>
+			<property class="Action1">
+				<property name="Vehicle" value="vehicleTechnoBikeOrange"/>
+				<property name="VehicleSize" value="1.3, 1.9, 3"/>
+			</property>
+			<effect_group name="Base Effects">
+				<passive_effect name="DegradationMax" operation="base_set" value="6000"/>
+        <passive_effect name="ModSlots" operation="base_set" value="4"/>
+		    <passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+			</effect_group>
+		</item>
+
+    <item name="vehicleTechnoBikePinkplaceable">
+			<property name="Extends" value="vehicleMinibikePlaceable"/>
+			<property name="CustomIcon" value="TechnoBike"/>
+			<property name="DescriptionKey" value="vehicleTechnoBikeplaceableDesc"/>
+			<property name="Meshfile" value="#@modfolder:Resources/TechnoBikePink.unity3d?TechnoBikePinkPrefab.prefab"/>
+			<property name="EconomicValue" value="30000"/>
+			<property class="Action1">
+				<property name="Vehicle" value="vehicleTechnoBikePink"/>
+				<property name="VehicleSize" value="1.3, 1.9, 3"/>
+			</property>
+			<effect_group name="Base Effects">
+				<passive_effect name="DegradationMax" operation="base_set" value="6000"/>
+        <passive_effect name="ModSlots" operation="base_set" value="4"/>
+		    <passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+			</effect_group>
+		</item>
+
+    <item name="vehicleTechnoBikePurpleplaceable">
+			<property name="Extends" value="vehicleMinibikePlaceable"/>
+			<property name="CustomIcon" value="TechnoBike"/>
+			<property name="DescriptionKey" value="vehicleTechnoBikeplaceableDesc"/>
+			<property name="Meshfile" value="#@modfolder:Resources/TechnoBikePurple.unity3d?TechnoBikePurplePrefab.prefab"/>
+			<property name="EconomicValue" value="30000"/>
+			<property class="Action1">
+				<property name="Vehicle" value="vehicleTechnoBikePurple"/>
+				<property name="VehicleSize" value="1.3, 1.9, 3"/>
+			</property>
+			<effect_group name="Base Effects">
+				<passive_effect name="DegradationMax" operation="base_set" value="6000"/>
+        <passive_effect name="ModSlots" operation="base_set" value="4"/>
+		    <passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+			</effect_group>
+		</item>
+
+    <item name="vehicleTechnoBikeTealplaceable">
+			<property name="Extends" value="vehicleMinibikePlaceable"/>
+			<property name="CustomIcon" value="TechnoBike"/>
+			<property name="DescriptionKey" value="vehicleTechnoBikeplaceableDesc"/>
+			<property name="Meshfile" value="#@modfolder:Resources/TechnoBikeTeal.unity3d?TechnoBikeTealPrefab.prefab"/>
+			<property name="EconomicValue" value="30000"/>
+			<property class="Action1">
+				<property name="Vehicle" value="vehicleTechnoBikeTeal"/>
+				<property name="VehicleSize" value="1.3, 1.9, 3"/>
+			</property>
+			<effect_group name="Base Effects">
+				<passive_effect name="DegradationMax" operation="base_set" value="6000"/>
+        <passive_effect name="ModSlots" operation="base_set" value="4"/>
+		    <passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+			</effect_group>
+		</item>
+
+    <item name="vehicleTechnoBikeWhiteplaceable">
+			<property name="Extends" value="vehicleMinibikePlaceable"/>
+			<property name="CustomIcon" value="TechnoBike"/>
+			<property name="DescriptionKey" value="vehicleTechnoBikeplaceableDesc"/>
+			<property name="Meshfile" value="#@modfolder:Resources/TechnoBikeWhite.unity3d?TechnoBikeWhitePrefab.prefab"/>
+			<property name="EconomicValue" value="30000"/>
+			<property class="Action1">
+				<property name="Vehicle" value="vehicleTechnoBikeWhite"/>
+				<property name="VehicleSize" value="1.3, 1.9, 3"/>
+			</property>
+			<effect_group name="Base Effects">
+				<passive_effect name="DegradationMax" operation="base_set" value="6000"/>
+        <passive_effect name="ModSlots" operation="base_set" value="4"/>
+		    <passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+			</effect_group>
+		</item>
+
+    <item name="vehicleTechnoBikeHexagonplaceable">
+			<property name="Extends" value="vehicleMinibikePlaceable"/>
+			<property name="CustomIcon" value="TechnoBike"/>
+			<property name="DescriptionKey" value="vehicleTechnoBikeplaceableDesc"/>
+			<property name="Meshfile" value="#@modfolder:Resources/TechnoBikeHexagon.unity3d?TechnoBikeHexagonPrefab.prefab"/>
+			<property name="EconomicValue" value="30000"/>
+			<property class="Action1">
+				<property name="Vehicle" value="vehicleTechnoBikeHexagon"/>
+				<property name="VehicleSize" value="1.3, 1.9, 3"/>
+			</property>
+			<effect_group name="Base Effects">
+				<passive_effect name="DegradationMax" operation="base_set" value="6000"/>
+        <passive_effect name="ModSlots" operation="base_set" value="4"/>
+		    <passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+			</effect_group>
+		</item>
+	 </append>
+ </configs>

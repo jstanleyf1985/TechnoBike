@@ -1,0 +1,32 @@
+<configs>
+
+	<append xpath="/Sounds">
+			<SoundDataNode name="technobike_startup"> <AudioSource name="Sounds/AudioSource_Vehicle"/>
+				<AudioClip ClipName="#@modfolder:Resources/Startup.unity3d?Startup"/></SoundDataNode>
+			
+			<SoundDataNode name="technobike_idle"> <AudioSource name="Sounds/AudioSource_Vehicle"/>
+        <AudioClip ClipName="#@modfolder:Resources/Idle.unity3d?Idle" Loop="true"/></SoundDataNode>
+
+			<SoundDataNode name="technobike_gear1"> <AudioSource name="Sounds/AudioSource_Vehicle"/>
+				<AudioClip ClipName="#@modfolder:Resources/Gear1.unity3d?Gear1"/></SoundDataNode>
+
+			<SoundDataNode name="technobike_gear2"> <AudioSource name="Sounds/AudioSource_Vehicle"/>
+				<AudioClip ClipName="#@modfolder:Resources/Gear2.unity3d?Gear2"/></SoundDataNode>
+
+			<SoundDataNode name="technobike_gear3"> <AudioSource name="Sounds/AudioSource_Vehicle"/>
+				<AudioClip ClipName="#@modfolder:Resources/Gear3.unity3d?Gear3"/></SoundDataNode>
+				
+			<SoundDataNode name="technobike_gear4"> <AudioSource name="Sounds/AudioSource_Vehicle"/>
+				<AudioClip ClipName="#@modfolder:Resources/Gear4.unity3d?Gear4"/></SoundDataNode>
+
+      <SoundDataNode name="technobike_gear4a"> <AudioSource name="Sounds/AudioSource_Vehicle"/>
+				<AudioClip ClipName="#@modfolder:Resources/Gear4A.unity3d?Gear4A"/></SoundDataNode>		
+
+      <SoundDataNode name="technobike_gear5"> <AudioSource name="Sounds/AudioSource_Vehicle"/>
+				<AudioClip ClipName="#@modfolder:Resources/Gear5.unity3d?Gear5" Loop="true"/></SoundDataNode>	  
+
+      <SoundDataNode name="technobike_decelerate"> <AudioSource name="Sounds/AudioSource_Vehicle"/>
+				<AudioClip ClipName="#@modfolder:Resources/Decelerate.unity3d?Decelerate" Loop="true"/></SoundDataNode>  
+
+	</append>
+</configs>

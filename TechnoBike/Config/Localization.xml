@@ -1,0 +1,4 @@
+Key,Source,Context,Changes,English
+vehicleTechnoBike,vehicles,vehicle,new,TechnoBike,,,,,
+vehicleTechnoBikeplaceable,vehicles,item,EnChanged,TechnoBike,,,,,
+vehicleTechnoBikeplaceableDesc,vehicles,item,EnChanged,TechnoBike.,,,,,
